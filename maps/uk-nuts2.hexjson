@@ -37,7 +37,7 @@
 		"UKL1":{"n":"West Wales","ID":"UKL1","name":"West Wales","longitude":-4.38130999,"latitude":52.0057106,"q":2,"r":2},
 		"UKL2":{"n":"East Wales","ID":"UKL2","name":"East Wales","longitude":-3.28945994,"latitude":52.38422012,"q":3,"r":2},
 		"UKM5":{"n":"North Eastern Scotland","ID":"UKM5","name":"North Eastern Scotland","longitude":-2.64976001,"latitude":57.22386932,"q":4,"r":9},
-		"UKM6":{"n":"Highlands and Islands","ID":"UKM6","name":"Highlands and Islands","longitude":-4.47424984,"latitude":57.36603165,"q":2,"r":9},
+		"UKM6":{"n":"Highlands and Islands","ID":"UKM6","name":"Highlands and Islands","longitude":-4.47424984,"latitude":57.36603165,"q":3,"r":9},
 		"UKM7":{"n":"Eastern Scotland","ID":"UKM7","name":"Eastern Scotland","longitude":-3.61698008,"latitude":56.48554993,"q":5,"r":8},
 		"UKM8":{"n":"West Central Scotland","ID":"UKM8","name":"West Central Scotland","longitude":-4.63895988,"latitude":56.02772903,"q":4,"r":8},
 		"UKM9":{"n":"Southern Scotland","ID":"UKM9","name":"Southern Scotland","longitude":-3.7047801,"latitude":55.2950592,"q":4,"r":7},
